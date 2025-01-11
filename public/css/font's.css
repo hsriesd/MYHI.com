@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWeb.eot);
+    src: url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWeb.eot?#iefix) format("embedded-opentype"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWeb.woff) format("woff"), url(https://hangeul.pstatic.net/hangeul_static/webfont/NanumBarunGothic/NanumBarunGothicWeb.ttf) format("truetype");
+}
+
+body {
+    font-family: 'NanumBarunGothic'; /* 폰트 적용 */
+
+}

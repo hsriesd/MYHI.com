@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1"
+  },
+  "name": "myhi.com",
+  "version": "1.0.0",
+  "description": "P.J.H and Hsries_ made it~!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "S": "nodemon --ext js,mjs,cjs,json,html,ejs,css index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsriesd/MYHI.com.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hsriesd/MYHI.com/issues"
+  },
+  "homepage": "https://github.com/hsriesd/MYHI.com#readme"
+}

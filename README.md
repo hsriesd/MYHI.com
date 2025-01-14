@@ -1,2 +1,15 @@
-# MYHI.com
-P.J.H and Hsries_ made it~!
+# Project. MYHI.com
+This project has MIT licence.
+# Using package
+ - express.js *.*
+ - dotenv *.*
+ - mysql2 *.*
+ - bodyparser *.*
+ - axios *.*
+# CSS, JS
+   - Bootstrap.css
+   - Ajax.js
+   - Bootstrap.js
+   - jquery.js
+
+
